@@ -5,6 +5,12 @@ VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecastConcretePlantView", "PrecastConcretePlantView\PrecastConcretePlantView.csproj", "{D5227251-7599-4529-9AE9-2E0E9472C5C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecastConcretePlantContracts", "PrecastConcretePlantContracts\PrecastConcretePlantContracts.csproj", "{0277CAC3-F929-4028-86A0-B9186CC9323E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecastConcretePlantBusinessLogic", "PrecastConcretePlantBusinessLogic\PrecastConcretePlantBusinessLogic.csproj", "{CE58EFC6-A85D-4F78-8BF9-205B69BCC93F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrecastConcretePlantListImplement", "PrecastConcretePlantListImplement\PrecastConcretePlantListImplement.csproj", "{AD4B6502-9B62-4B07-8CA3-01C4509B82B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{D5227251-7599-4529-9AE9-2E0E9472C5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5227251-7599-4529-9AE9-2E0E9472C5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5227251-7599-4529-9AE9-2E0E9472C5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0277CAC3-F929-4028-86A0-B9186CC9323E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0277CAC3-F929-4028-86A0-B9186CC9323E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0277CAC3-F929-4028-86A0-B9186CC9323E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0277CAC3-F929-4028-86A0-B9186CC9323E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE58EFC6-A85D-4F78-8BF9-205B69BCC93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE58EFC6-A85D-4F78-8BF9-205B69BCC93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE58EFC6-A85D-4F78-8BF9-205B69BCC93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE58EFC6-A85D-4F78-8BF9-205B69BCC93F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4B6502-9B62-4B07-8CA3-01C4509B82B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4B6502-9B62-4B07-8CA3-01C4509B82B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4B6502-9B62-4B07-8CA3-01C4509B82B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4B6502-9B62-4B07-8CA3-01C4509B82B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
